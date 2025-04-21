@@ -2,7 +2,6 @@
   "branchPrefix": "renovate-gha/",
   "username": "renovate-bot",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "platform": "github",
   "forkProcessing": "enabled",
   "repositories": [
     "marcelovilla/nebari-dev"
