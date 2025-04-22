@@ -1,9 +1,0 @@
-{
-  "branchPrefix": "renovate-gha/",
-  "username": "renovate-bot",
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "forkProcessing": "enabled",
-  "repositories": [
-    "marcelovilla/nebari-dev"
-  ]
-}
